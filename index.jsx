@@ -6,3 +6,4 @@ ReactDOM.render(
   <MyButtonController/>,
   document.querySelector('#example')
 );
+
