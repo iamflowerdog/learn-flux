@@ -6,7 +6,7 @@ Flux, invented by Facebook, is an architecture pattern for building client-side 
 
 It is similar to MVC architecture, but Flux's concept is [much clearer](http://www.infoq.com/news/2014/05/facebook-mvc-flux) than MVC's, and easier to learn.
 
-![](img/banner.png)
+![](img/merry.jpg)
 
 ## How to Play?
 
